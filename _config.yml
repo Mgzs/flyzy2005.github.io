@@ -1,11 +1,11 @@
 # Site settings 按照自己的网站信息做点修改
-title: flyzy小站
-SEOTitle: flyzy小站 | flyzy小站，GitHub Pages分部
+title: Mgzs
+SEOTitle: Mgzs | Mgzs，GitHub Pages
 header-img: img/home-bg.jpg
-email: flyzy2005@gmail.com
+email: mgzscreed@gmail.com
 description: "flyzy小站GitHub分站~"
 keyword: "技术分享,科学上网,建站教程"
-url: "https://flyzy2005.github.io"              # your host, for absolute URL
+url: "https://mgzs.github.io"              # your host, for absolute URL
 baseurl: ""         # 例如, '/blog' 如果你的博客的路径是'host/blog'，默认是空
 
 
@@ -60,9 +60,9 @@ kramdown:
 
 # Analytics settings 不用请注释这两行！！！
 # Baidu 统计 （自己百度搜索百度统计获得自己的追踪代码）
-ba_track_id: b0194eff1ffb1d6ad8b04f0440bdf507
+#ba_track_id: b0194eff1ffb1d6ad8b04f0440bdf507
 # Google 分析 （登录需要要翻墙，不需要的请注释下面一行，请一定要注释啊，不然记录全跑我那里了！！！）
-ga_track_id: 'UA-112052918-2'            # 格式: UA-xxxxxx-xx
+#ga_track_id: 'UA-112052918-2'            # 格式: UA-xxxxxx-xx
 
 
 
