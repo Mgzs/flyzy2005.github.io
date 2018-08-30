@@ -1,3 +1,9 @@
+<style type="text/css">
+div.marker1{color:#6542f4;font-weight:bold}
+div.marker2{color:#ef731a;font-weight:bold}
+</style>
+
+
 # 人生的第一篇博客
 
 ## 这算是人生的第一篇博客吧
@@ -9,7 +15,7 @@
 
 ## 没啥事就总结一会儿这个假期吧
 
-<div style="color:#6542f4">
+<div class='marker1'>
 
 - 假期总体来说前两个月划水很严重，没有切实的执行好计划，没有意识到作为一个程序员应该要去获取多少至少
 - 有多高的紧迫感
@@ -19,10 +25,10 @@
 
 </div>
 
-<div style="color:#ef731a">
+<div class='marker2'>
 
 > 希望你多加尝试，不要停止不前
-<br>
+
 > 永远要保持一个积极向上的进取的心，希望，在我心中不灭！
 
 </div>
