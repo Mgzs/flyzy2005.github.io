@@ -119,6 +119,7 @@ Few problems will be listed below
 防止服务器被暴力破解密码骇入，使用ssh-key登陆，将本机生成的public key放到服务器中，scp id_rsa.pub到服务器~/.ssh/authorized_keys文件中.  
 > 注意，不要粘贴复制，会导致public key中复制进一些空字符从而导致无效。用scp更香
 更改权限后，进入服务器ssh config.
+
 ``` shell
 $ vim /etc/ssh/sshd_config
 
@@ -136,6 +137,8 @@ AuthorizedKeysFile %h/.ssh/authorized_keys
 # 有了证书登录了，就禁用密码登录吧，安全要紧
 PasswordAuthentication no
 ```
+
+然后就可以通过简单的自己设置的密码进入服务器了
 
 
 
